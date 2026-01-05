@@ -1,4 +1,4 @@
-Havu – A Gentle AI Companion for Mental Wellbeing
+# Havu – A Gentle AI Companion for Mental Wellbeing
 
 Final project for the Building AI course
 
