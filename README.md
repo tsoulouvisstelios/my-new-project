@@ -2,7 +2,11 @@
 
 Final project for the Building AI course
 
+## Summary
+
 Havu is a non-clinical AI-powered wellbeing assistant that supports users through gentle daily check-ins, reflective prompts, and emotional awareness. It helps people pause, reflect, and better understand their mental state in a calm, ethical, and privacy-respecting way.
+
+## Background
 
 Mental stress, emotional overload, and feelings of disconnection are increasingly common, especially in modern digital societies. Many people hesitate to seek professional help early, while existing apps often feel intrusive, overwhelming, or overly clinical.
 
@@ -17,6 +21,8 @@ Limited emotional self-awareness in everyday life
 The gap between doing nothing and seeking professional help
 
 My personal motivation comes from observing how many people struggle silently with their mental wellbeing, especially in Northern European contexts where emotional expression can be minimal. This topic is important because early reflection and awareness can prevent deeper issues later, without replacing professional care.
+
+## How is it used?
 
 Havu is designed to be used in short, calm moments during the day — for example in the morning, during a break, or before sleep.
 
@@ -36,6 +42,8 @@ The solution is intended for individuals who want light emotional support withou
 
 <img src="https://commons.wikimedia.org/w/index.php?search=nordic+summer+forest&title=Special%3AMediaSearch&type=image" width="300">
 
+## Data sources and AI methods
+
 Havu primarily relies on user-provided, voluntary input, such as short text responses or emoji-based mood signals.
 
 AI techniques potentially used include:
@@ -49,6 +57,8 @@ Optional deep learning models to personalize responses based on user interaction
 Rule-based systems combined with probabilistic reasoning, as introduced in the Building AI course
 
 No external social media data is required. The system is designed to work with minimal data and prioritize data quality, transparency, and user consent.
+
+## Challenges
 
 This project does not:
 
@@ -68,6 +78,8 @@ Ensuring strict data privacy and informed consent
 
 Clearly communicating that the tool is supportive, not medical
 
+## What next?
+
 In the future, Havu could:
 
 Expand to additional European countries with cultural adaptation
@@ -79,6 +91,8 @@ Improve personalization while maintaining ethical boundaries
 Collaborate with public health or research institutions using anonymized, aggregated data
 
 To move forward, skills needed include UX design, applied AI engineering, ethics-by-design frameworks, and collaboration with mental health professionals.
+
+## Acknowledgments
 
 Inspiration from the University of Helsinki – Building AI course
 
